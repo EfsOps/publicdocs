@@ -13,7 +13,7 @@ permalink: /finance-faq/
   * [How do I change my password?](#netsuitepw)
   * [How do I update my security questions?](#netsuitequestions)
 * [Netsuite and Zuora](#netsuitezuora)
-  * [How do I make changes to a payment in NetSuite and resync to Zuora](#nszuresyncpmt)
+  * [How do I make changes to a payment in NetSuite and resync to Zuora?](#nszuresyncpmt)
 
 ## <a id="zuora">Zuora FAQ</a>
 
