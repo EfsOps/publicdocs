@@ -63,7 +63,7 @@ Enter your current password and choose and answer each of the three question pro
 
 ## NetSuite and Zuora<a id="netsuitezuora"></a>
 
-### How do I make changes to a payment in NetSuite and resync to Zuora?<a id="nszuresyncpmt"</a>
+### How do I make changes to a payment in NetSuite and resync to Zuora?<a id="nszuresyncpmt"></a>
 1. Request a Transaction unlock on the payment by hitting the "Request Unlock" button in NetSuite. Wait for a response from the NetSuite Admin before proceding to step 2 below.
 2.	Find the equivalent payment in Zuora for this payment. Should be pretty easy to find, but you can find additional information in the “Zuora Sync Details” tab, specifically the Zuora ID, which can be used in Zuora’s URL to go straight to the payment.
  * a.	https://www.zuora.com/apps/NewPayment.do?method=view&id=<em>zuoraidhere</em> 
